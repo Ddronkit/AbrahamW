@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abraham-w/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/abraham-w/static/js/main.b5ad5b06.chunk.js",
+    "main.js.map": "/abraham-w/static/js/main.b5ad5b06.chunk.js.map",
+    "runtime-main.js": "/abraham-w/static/js/runtime-main.067c0b13.js",
+    "runtime-main.js.map": "/abraham-w/static/js/runtime-main.067c0b13.js.map",
+    "static/js/2.b0974820.chunk.js": "/abraham-w/static/js/2.b0974820.chunk.js",
+    "static/js/2.b0974820.chunk.js.map": "/abraham-w/static/js/2.b0974820.chunk.js.map",
+    "static/js/3.e05871a1.chunk.js": "/abraham-w/static/js/3.e05871a1.chunk.js",
+    "static/js/3.e05871a1.chunk.js.map": "/abraham-w/static/js/3.e05871a1.chunk.js.map",
+    "index.html": "/abraham-w/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/abraham-w/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b0974820.chunk.js.LICENSE.txt": "/abraham-w/static/js/2.b0974820.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/abraham-w/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.067c0b13.js",
+    "static/js/2.b0974820.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b5ad5b06.chunk.js"
+  ]
+}
